@@ -3,10 +3,11 @@ import "./style.css"
 
 function CharacterCard (props) {
     return (
-    <div className="card">
-        card
+    <div>
+        <img src={props.backgroundImage}/>
         
     </div>
+
 
      
     

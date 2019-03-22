@@ -1,0 +1,64 @@
+[
+    {
+       "id": 1,
+        "backgroundImage": "/src/components/CharacterImage/Mario.png"
+    },
+
+    {
+        "id": 2,
+         "backgroundImage": "/src/components/CharacterImage/Luigi.png"
+     
+    },
+
+    {
+         "id": 3,
+          "backgroundImage": "/src/components/CharacterImage/Peach.png"
+    },
+
+    {
+        "id": 4,
+        "backgroundImage": "/src/components/CharacterImage/Daisy.png"
+    },
+
+    {
+        "id": 5,
+         "backgroundImage": "/src/components/CharacterImage/Rosalina.png"
+    },
+
+    {
+        "id": 6,
+         "backgroundImage": "/src/components/CharacterImage/Wario.png"
+    },
+
+    {
+        "id": 7,
+         "backgroundImage": "/src/components/CharacterImage/Waluigi.png"
+    },
+
+    {
+        "id": 8,
+         "backgroundImage": "/src/components/CharacterImage/Yoshi.png"
+    },
+
+    {
+        "id": 9,
+         "backgroundImage": "/src/components/CharacterImage/DK.png"
+    },
+
+    {
+        "id": 10,
+         "backgroundImage": "/src/components/CharacterImage/DiddyKong.png"
+    },
+
+    {
+        "id": 11,
+         "backgroundImage": "/src/components/CharacterImage/Bowser.png"
+    },
+
+    {
+        "id": 12,
+         "backgroundImage": "/src/components/CharacterImage/BowserJr.png"
+    }
+
+    
+]
